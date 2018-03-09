@@ -1,6 +1,7 @@
 # django blog project
 
-Based on Django Girs Blog Tutorial
+**Based on Django Girs Blog Tutorial**
 
-New functionalities implemented:
+**New functionalities implemented:**
 * Pagination
+
